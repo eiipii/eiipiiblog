@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Hello world post"
+date:   2016-11-28 13:32:46 +0100
+categories: org
+---
+# h1 tag equivalent
+
+## h2 tag equivalent
+
+Normal text with *bold* and _italic_.
+
+> block
+
+``` code goes here ```
+
+[!eipii image](/images/eipii.jpg)
+
+This is a gh-pages specific markdown code, out of curiosity: :+1:
