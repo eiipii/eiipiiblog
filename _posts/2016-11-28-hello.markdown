@@ -14,6 +14,6 @@ Normal text with *bold* and _italic_.
 
 ``` code goes here ```
 
-[!eipii image](/images/eipii.jpg)
+[!eipii image]({{ site.github.url }}/images/eipii.jpg)
 
 This is a gh-pages specific markdown code, out of curiosity: :+1:
