@@ -22,6 +22,7 @@ baseurl: "/eiipiiblog" # MESSY PART WITH THE gh-pages
 url: "http://example.com" # the base hostname & protocol for your site
 twitter_username: temp
 github_username:  temp
+site.baseurl: ''
 
 # Build settings
 markdown: kramdown
